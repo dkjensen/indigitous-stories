@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Indigitous Stories
  * Description: 
- * Version: 1.0.2
+ * Version: 1.0.3
  * Author: David Jensen
  * Author URI: https://dkjensen.com
  * Text Domain: indigitous-stories
@@ -14,7 +14,7 @@ if ( ! defined( 'ABSPATH' ) ) {
     exit;
 }
 
-define( 'INDIGITOUS_STORIES_VER', '1.0.2' );
+define( 'INDIGITOUS_STORIES_VER', '1.0.3' );
 define( 'INDIGITOUS_STORIES_PLUGIN_NAME', 'Indigitous Stories' );
 define( 'INDIGITOUS_STORIES_PLUGIN_DIR', plugin_dir_path( __FILE__ ) );
 define( 'INDIGITOUS_STORIES_PLUGIN_URL', plugin_dir_url( __FILE__ ) );
